@@ -19,5 +19,6 @@ public class AmenitiesDTO {
     private String amenitiesType;
 
     private String amenitiesCode;
+
     private Set<PackageDTO> packageSet;
 }
